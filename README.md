@@ -28,4 +28,4 @@ Zynq-prj
 ```
 
 ### NPU-IP: NPU ip core (netlist)
-It is a general NPU core that supports almost all the main-stream neural network models. It can be further customized for specific learning tasks and run at higher speed and less resource overhead. More details about the IP can be found in xxx.
+It is a general NPU core that supports almost all the main-stream neural network models. It can be further customized for specific learning tasks and run at higher speed and less resource overhead.
