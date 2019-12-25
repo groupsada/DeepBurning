@@ -1,0 +1,1 @@
+Instruction.hex includes the compiled instructions of the neural network data-in.coe, weights.coe, bias.coe are the formatted data files of input, weight and bias. 
