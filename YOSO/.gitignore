@@ -1,0 +1,28 @@
+# setup.py
+build
+dist
+*.egg*
+*.csv
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+# IDEs
+.idea
+log/
+smac-output/
+# SMAC output
+
+# Other
+.tox
+.coverage
+.pypirc
+.ipynb_checkpoints/
+*.ipynb
+*~
+.html/
+
+#eclipse files
+.pydevproject 
+.project

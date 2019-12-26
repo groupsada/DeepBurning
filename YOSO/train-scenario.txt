@@ -1,0 +1,6 @@
+use-instances = false
+runObj = QUALITY
+deterministic = true
+numberOfRunsLimit = 500
+pcs-file = params.pcs
+algo = python2 smc_train.py -Alpha 0.9 -Beta 0.09 -Gamma 0.01
