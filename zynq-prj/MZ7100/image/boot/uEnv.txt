@@ -1,0 +1,1 @@
+optargs=uio_pdrv_genirq.of_id=generic-uio mem=768M ethaddr=00:0a:35:00:01:20
